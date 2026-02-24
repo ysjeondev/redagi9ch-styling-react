@@ -2,15 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.App .logo {
+  animation: App-logo-spin infinite 20s linear;
+  height:40vmin;
 }
 
 .App-header {
@@ -24,8 +18,8 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.App a {
+  color: red;
 }
 
 @keyframes App-logo-spin {
