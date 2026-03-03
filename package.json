@@ -7,11 +7,13 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.1.0",
     "@testing-library/user-event": "^13.2.1",
+    "classnames": "^2.5.1",
     "include-media": "^2.0.0",
     "open-color": "^1.9.1",
     "react": "^19.2.4",
     "react-dom": "^19.2.4",
     "react-scripts": "5.0.1",
+    "styled-components": "^6.3.11",
     "web-vitals": "^2.1.0"
   },
   "scripts": {
